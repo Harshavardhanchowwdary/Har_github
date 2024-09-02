@@ -1,5 +1,4 @@
-# python={122:'pubg',123:'bgmi',124:True}
-# print(python[123])
+
 
 user="harsha"
 password='5555'
