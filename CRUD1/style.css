@@ -1,0 +1,40 @@
+body{
+    background-color:yellow;
+}
+.hars{
+    color: black;
+    background-color: aqua;
+    text-decoration: none;
+    list-style: none;
+    display: center;
+}
+.hars:hover{
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+table{
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(24, 29, 23);
+    background-color: orangered;
+    border-radius: 6px;
+}
+#h{
+    background-color:black;
+    color: greenyellow;
+}
+#h:hover{
+    background-color: greenyellow;
+    color: black;
+}
+#a{
+    background-color: black;
+    color: greenyellow;
+
+}
+#a:hover{
+    background-color: yellow;
+    color: black;
+
+}

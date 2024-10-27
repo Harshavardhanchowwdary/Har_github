@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: orangered;
+
+}
+#s{
+    color: greenyellow;
+    background:black; 
+}
+#s:hover{
+    background-color: whitesmoke;
+    color: orangered;
+    border-radius: 7px;
+}
+#p{
+    background-color: yellowgreen;
+    color: black;
+}
+#p:hover{
+    background-color: black;
+    color: greenyellow;
+}
