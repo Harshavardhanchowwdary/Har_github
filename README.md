@@ -1,1 +1,1 @@
-This is How to create  Bank personal details using python
+Today  came return to python projects and gained knowledge
