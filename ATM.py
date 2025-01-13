@@ -9,7 +9,7 @@ H='''
 2.debit
 3.statement
 4.exit'''
-Amount=10000
+Amount=100000
 if user==username  and password==pass_word:
  while True:
     print(H)
