@@ -2,7 +2,7 @@ hi i am harshavardhan  trying to daily challenge to get activity in github commi
  hii today i made food application
 today and daily trying to maintain the github activity profile     
          
-   day by day enhancing frontend skills    
+   day by day enhancing frontend skills     
     I started 9days ago in backend 
      
    where in the loops 
