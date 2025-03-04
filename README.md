@@ -10,4 +10,4 @@ today and daily trying to maintain the github activity profile
     today my code challenge day is 57      
       i have   created four repositries yesturday
      
- Today i have completed my new functions
+ Today i have completed my new functions concept
