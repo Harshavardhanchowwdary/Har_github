@@ -11,4 +11,4 @@ today and daily trying to maintain the github activity profile
       i have   created four repositries yesturday
      
  Today i have completed my new functions concept in python 
- Yesturday I am completed my
+ Yesturday I am completed my internship
