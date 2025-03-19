@@ -10,6 +10,5 @@ today and daily trying to maintain the github activity profile
     today my code challenge day is 57      
       i have   created four repositries yesturday
      
- Today i have completed my new functions concept in python 
- Yesturday I am completed my internship duration 
+ Today i have completed my new functions concept in python  
  today i have decided to study mca 
