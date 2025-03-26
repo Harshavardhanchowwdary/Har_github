@@ -14,4 +14,4 @@ today and daily trying to maintain the github activity profile
  today i have decided to study mca  
  today i have try to practice to get good rank in ap icet
   Vemu or vit or ap icet rank college
-  
+   
