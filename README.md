@@ -7,8 +7,7 @@ today and daily trying to maintain the github activity profile
                   
    where in the loops         
    I am try to thinking t write th logic     
-    today my code challenge day is 57      
-      i have   created four repositries yesturday 
+    today my code challenge day is 57       
          
  Today i have completed my new functions concept in python  
  today i have decided to study mca  
